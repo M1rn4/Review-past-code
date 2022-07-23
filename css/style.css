@@ -1,3 +1,56 @@
-*{color: black
+.main{
+    align-self: center;
+}
+.container{background-color: rgb(225, 223, 215);
+    
+    padding: 50px,30px,30px,30px;
+}
+.name{
+    text-align: center;
+}
+h1 {
+    text-align: left;
+    display: inline-block;
+    line-height: 20px;
+    padding: 45px;
+    color: rgb(0, 0, 0);
+}
+.description{ 
+    text-align: center;
+}
 
+
+.containerImagen{
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px,10px,10px,10px;
+    border: 15px;
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+    
+}
+.footImg{
+    text-align: center;
+}
+.subtitle{
+    text-align: center;
+}
+.listas{
+    display: flex;
+    flex-direction: column;
+    align-items: justify;
+}
+
+
+.conclusion{
+    text-align: center;
+}
+.cita{
+    text-align: center;
+}
+.link{
+    text-align: center;
 }
